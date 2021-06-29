@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\Visual Studio\prj\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 8 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> D:\Visual Studio\prj\ConsoleApplication1\Release\ConsoleApplication1.exe
